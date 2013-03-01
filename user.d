@@ -1,0 +1,11 @@
+user.o: user.c
+user.o: ..\..\..\ValvanoWare\inc/hw_types.h
+user.o: os.h
+user.o: C:\Keil\ARM\Inc\Luminary\lm3s8962.h
+user.o: ADC.h
+user.o: uart2.h
+user.o: PolledButton.h
+user.o: rit128x96x4.h
+user.o: ..\..\..\ValvanoWare\driverlib/sysctl.h
+user.o: Output.h
+user.o: Debug.h
