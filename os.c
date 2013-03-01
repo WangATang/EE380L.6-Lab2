@@ -766,8 +766,7 @@ unsigned long OS_Time(void){
 //   this function and OS_Time have the same resolution and precision 
 unsigned long OS_TimeDifference(unsigned long start,
 																unsigned long stop){
-			
-																	
+															
 	long diff;
 
 	diff = stop - start;

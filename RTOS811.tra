@@ -20,7 +20,7 @@
 ### ADS-LD Output File: 'RTOS811.axf'
 ### ADS-LD Command File: 'RTOS811.lnp'
 ### Checking for dirty Components...
-### Creating CmdFile 'RTOS811.lnp', Handle=0x00000310
+### Creating CmdFile 'RTOS811.lnp', Handle=0x0000033C
 ### Writing '.lnp' file
 ### ADS-LD Command file 'RTOS811.lnp' is ready.
 ### ADS-LD: About to start ADS-LD Thread.
